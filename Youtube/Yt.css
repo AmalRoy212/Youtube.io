@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    font-family: "Roboto","Arial",sans-serif;
+}
+.header{
+    width: 100%;
+    height: 60px;
+    background-color: #222121;
+    float: left;
+}
+.button_logo_div{
+    float: left;
+    height: 100%;
+    width: 25%;
+}
+ion-icon {
+    color: white;
+}
+.button{
+    background-color: #222121;
+    border: 0px;
+    margin-left: 6px;
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+ion-icon:hover{
+    color: #565656;
+}
+.icon{
+    width: 30px;
+    height: 40px;
+}
+.searchbar_div{
+    float: left;
+    height: 100%;
+    width: 40%;
+}
+.search_bar{
+    background-color: black;
+    height: 30px;
+    width: 500px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.s_button_div{
+    float: left;
+    height: 100%;
+    width: 70px;
+}
+.search_button{
+    height: 36px;
+    width: 60px;
+    margin-left: -11px;
+    background-color: #2f2f2f;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+input{
+    color: white;
+}
+.search_button:hover{
+    background-color: #212121;
+}
+.s_icon{
+    width: 22px;
+    height: 22px;
+}
+.mic_div{
+    height: 100%;
+    width: 47px;
+    float: left;
+
+}
+.mic_button{
+    background-color: #222121 ;
+    border: none;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.m_icon{
+    width: 35px;
+    height: 35px;
+}
+.last_sec{
+    float: left;
+    height: 100%;
+    width: 25%;
+}
+.last_button{
+    background-color: #222121;
+    margin-left: 190px;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
+.l_button{
+    background-color: #222121;
+    margin-top: 10px;
+    width: 40px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+}
+.last_icons{
+    height: 100%;
+    width: 100%;
+}
+
+
+
